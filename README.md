@@ -1,5 +1,5 @@
 # Embedded Controls Engineering Portfolio
-**Saranya Patnala** | Round Rock, TX | write2saranyapatnala@gmail.com
+**Saranya Patnala** | Leander, TX | write2saranyapatnala@gmail.com
 
 Embedded controls software engineer with 5+ years in medium voltage industrial drives (1–15 kV, up to 10 MW). This repository documents projects built while expanding into Model-Based Design, EV traction inverter control, and AI/ML for motor drives.
 

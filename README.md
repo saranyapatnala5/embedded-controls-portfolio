@@ -50,7 +50,8 @@ Embedded controls software engineer with 5+ years in medium voltage industrial d
 |---|---|---|
 | MATLAB Onramp | MathWorks | ✅ Complete |
 | Simulink Onramp | MathWorks | ✅ Complete |
-| Control Design Onramp | MathWorks | 🔄 In progress |
+| Control Design Onramp | MathWorks | ⏭️ Skipped — prior expertise |
+| Simscape Onramp | MathWorks | 🔄 In progress |
 
 ## Contact
 - LinkedIn: [linkedin.com/in/saranyapatnala](https://linkedin.com/in/saranyapatnala)
